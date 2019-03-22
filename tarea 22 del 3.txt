@@ -1,0 +1,12 @@
+se ingresan numeros enteros (no se sabe cuantos (usuario define)). Los numeros tienen que estar comprendidos 
+entre -500 y 500.
+Determinar:
+	a) Cuantos son pares
+	b) Cuantos positivos 
+	c) Cuantos negativos
+	d) CUANTOS CEROS
+	e) Promedio de positivos
+	f) Maximo y minimo(en que orden se ingreso)
+	g) Suma de los negativos
+	h) Diferencia entre negativos y positivos
+	i) Cuantos numero entre -239 y 5
